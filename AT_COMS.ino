@@ -53,7 +53,8 @@ void wifiSet() {
   wifiStruct.ECN = 0;
   wifiStruct.MaxCon = 4;
   wifiStruct.Hidden = 0;  
-  wifiStruct.CIPMUX = 1;
+  wifiStruct.CIPMUX = 1
+  ;
   wifiStruct.SERVER = 1;
   wifiStruct.PORT = 50000;
 
